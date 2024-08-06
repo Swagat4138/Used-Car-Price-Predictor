@@ -1,4 +1,4 @@
-# Car-price-prediction-ML-Model
+# Used-Car-price-prediction-ML-Model
 The proposed work is the construction of an ML model (Linear Regression) which will read from dataset prepared with the help of information listed on www.cardekho.com about used cars and analyze all the independent variables. After the testing-training data split, I have predicted the dependent variable of the testing data. Later, will compare the accuracy between the test set and the predicted values of the dependent variable.
 
 With the rise in the variety of cars with differentiated capabilities and features such as Car name, year, selling price, present price, Kms driven, fuel type, seller type, transmission, owner and many more. This seemingly random data is streamlined into information that is fed into machine learning algorithms, to predict the price of a car. 

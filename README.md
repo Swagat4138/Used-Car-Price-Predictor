@@ -2,6 +2,13 @@
 The proposed work is the construction of an ML model (Linear Regression) which will read from dataset prepared with the help of information listed on www.cardekho.com about used cars and analyze all the independent variables. After the testing-training data split, I have predicted the dependent variable of the testing data. Later, will compare the accuracy between the test set and the predicted values of the dependent variable.
 
 With the rise in the variety of cars with differentiated capabilities and features such as Car name, year, selling price, present price, Kms driven, fuel type, seller type, transmission, owner and many more. This seemingly random data is streamlined into information that is fed into machine learning algorithms, to predict the price of a car. 
+## INSTALLATIONS
+-> pip install pandas
+-> pip install numpy
+-> pip install matplotlib
+-> pip install statsmodels
+-> pip install scikit-learn
+-> pip install seaborn
 
 ## WORKING
 The working of the system starts with collection of dataset and understanding the given features and then from those only reasonable features are selected for the model. Then, other methods are applied for data preprocessing. After pre-processing dataset is divided into train and test data and LINEAR RREGRESSION is applied and the model is trained using the training data.
